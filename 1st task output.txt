@@ -1,0 +1,21 @@
+OUTPUT:
+
+
+1.LINEAR REGRESSION
+R^2 Score:  44.689884730614736
+Mean Squared Error:  1.2949918978256836
+Mean Absolute Error:  0.9489049706741237
+
+
+2.RANDOM FOREST
+R^2 Score:  98.74383192406594
+Mean Squared Error:  0.02941103038239915
+Mean Absolute Error:  0.1143609219486642
+
+
+3.SVR
+R^2 Score:  95.64833233730408
+Mean Squared Error:  0.10188686712682538
+Mean Absolute Error:  0.17926733293761674
+
+Note: These values aren't the final, the values will fluctuate everytime you run the model, so the values will come within the range(nearly + or - 3) 
